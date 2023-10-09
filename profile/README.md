@@ -1,4 +1,4 @@
-# Wansen Intelligent Open Source Project
+# Wansen AI Open Source Project
 ![image](https://github.com/wansenai/.github/blob/master/images/logo_big.png)
 
 The organization focuses on AI intelligent robots and enterprise software research and development.
